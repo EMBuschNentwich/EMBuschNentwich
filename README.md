@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Example README for my students
+
+This is how you can add something about yourself to your GitHub profile. Maybe add the plot you're most proud of!
