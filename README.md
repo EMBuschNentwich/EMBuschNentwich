@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 # Example README for my students
 
-This is how you can add something about yourself to your GitHub profile. Maybe add the plot you're most proud of!
+This is how you can say something about yourself on your GitHub profile. Maybe add the plot you're most proud of!
